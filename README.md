@@ -49,7 +49,7 @@
   - 只想下载某一文件夹下的全部内容，先复制该文件夹网址，然后跳转到 [GitZip (kinolien.github.io)](https://kinolien.github.io/gitzip/) 输入并下载
 
 - 如何查看**更新**？
-  - **[点我](https://github.com/1538-art/Learning-In-UESTC/commits/main/)** 然后点击如图按钮显示详情！[查看更新](./img/08.png)
+  - **[点我](https://github.com/1538-art/Learning-In-UESTC/commits/main/)** 然后点击如图按钮显示详情 ![查看更新](./img/08.png)
   - 更具体的请查看下面 ↓ 的`11.`-`13.`
 
 <h2 align="center" style="color:lightgreen" id="03">03 Github 的一些基础操作</h2>
